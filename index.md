@@ -6,7 +6,7 @@ title: Sunil's Resume
 Software Engineer 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="sunilv@tuta.io">sunilv@tuta.io</a>
 | <a href="https://gitlab.com/sunilv/">My GitLab</a>
 </div>
 
@@ -23,9 +23,13 @@ React, React Native, Python Django (Rest Framework), PHP Laravel, Meteorjs.
 
 Nodejs, Mongo DB, Postgres.
 
-### Research interests
+### On Learning
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine learning and Image processing using tensorflow.
+
+### Professional interests
+
+Application architecture designing, Quality Standards, Component driven development.
 
 
 ## Education
