@@ -1,24 +1,27 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: Resume
+title: Sunil's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sunil V
+Software Engineer 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://gitlab.com/sunilv/">My GitLab</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Short term contract with startup companies based in Coimbatore, Bangalore and Chennai.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+React, React Native, Python Django (Rest Framework), PHP Laravel, Meteorjs.
 
+### Good Knowlege in
+
+Nodejs, Mongo DB, Postgres.
 
 ### Research interests
 
